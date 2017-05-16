@@ -1,0 +1,57 @@
+#root{
+	float:left;
+
+
+}
+
+
+#form{
+	float:left;
+
+
+
+
+}
+
+#header{
+	text-align:center;
+
+}
+
+#form1{
+  float:left;
+  width:150px;
+  height:100px;
+
+}
+
+#form2{
+  float:left;
+  width:150px;
+  height:100px;
+
+}
+
+
+#form3{
+  float:left;
+  width:150px;
+  height:100px;
+
+}
+
+#author{
+   float:right;
+   
+   display:inline;
+
+}
+
+
+#corp{
+width:500px;
+margin:0px;
+
+display:inline;
+
+}
